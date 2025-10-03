@@ -31,7 +31,7 @@ export default function Hero() {
                 <h3 className="text-lg font-semibold text-gray-900 mb-3">💰 Best-in-Class Pricing*</h3>
                 <div className="grid sm:grid-cols-2 gap-4">
                   <div className="text-center p-4 bg-white rounded-lg border border-gray-200">
-                    <div className="text-2xl font-bold text-green-600">₹2/min*</div>
+                    <div className="text-2xl font-bold text-green-600">₹4/min*</div>
                     <div className="text-sm text-gray-600">AI Voice Assistant</div>
                   </div>
                   <div className="text-center p-4 bg-white rounded-lg border border-gray-200">
