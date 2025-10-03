@@ -110,7 +110,7 @@ export default function Pricing() {
                   </p>
                   <div className="mb-2">
                     <span className="text-4xl font-bold text-gray-900">
-                      ${plan.price}
+                      ₹{plan.price}
                     </span>
                     <span className="text-gray-600">/month</span>
                   </div>
