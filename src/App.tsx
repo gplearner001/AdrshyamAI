@@ -2,6 +2,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import ProblemSolution from './components/ProblemSolution';
 import Features from './components/Features';
+import Languages from './components/Languages';
 import HowItWorks from './components/HowItWorks';
 import UseCases from './components/UseCases';
 import Testimonials from './components/Testimonials';
@@ -16,6 +17,7 @@ function App() {
       <Hero />
       <ProblemSolution />
       <Features />
+      <Languages />
       <HowItWorks />
       <UseCases />
       <Testimonials />
